@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<div align="center"> <img src="https://metrics.lecoq.io/LiuanxDiy?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
+<!-- ## Hi there 👋 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LiuanxDiy&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **LiuanxDiy/LiuanxDiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
